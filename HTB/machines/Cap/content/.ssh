@@ -1,0 +1,19 @@
+drwxr-xr-x    8 1001     1001         4096 Feb 13 22:15 .
+drwxr-xr-x    3 0        0            4096 May 23  2021 ..
+lrwxrwxrwx    1 0        0               9 May 15  2021 .bash_history -> /dev/null
+-rw-r--r--    1 1001     1001          220 Feb 25  2020 .bash_logout
+-rw-r--r--    1 1001     1001         3771 Feb 25  2020 .bashrc
+drwx------    2 1001     1001         4096 May 23  2021 .cache
+drwx------    3 1001     1001         4096 Feb 13 21:49 .gnupg
+drwxrwxr-x    3 1001     1001         4096 Feb 13 14:11 .local
+-rw-r--r--    1 1001     1001          807 Feb 25  2020 .profile
+-rw-------    1 1001     1001          111 Feb 13 21:53 .python_history
+drwx------    2 1001     1001         4096 Feb 13 22:16 .ssh
+drwxr-xr-x    2 1001     1001         4096 Feb 13 18:51 .vim
+-rw-------    1 1001     1001         4364 Feb 13 18:56 .viminfo
+-rwxrwxr-x    1 1001     1001        46631 Feb 13 18:15 LinEnum.sh
+-rw-rw-r--    1 1001     1001           33 Feb 13 16:44 ftp_get_user.txt
+-rw-rw-r--    1 1001     1001        15557 Feb 13 18:50 getcap
+-rwxrwxr-x    1 1001     1001       134169 Feb 13 19:22 linpeas.sh
+drwxr-xr-x    3 1001     1001         4096 Feb 13 20:38 snap
+-r--------    1 1001     1001           33 Feb 13 14:04 user.txt
